@@ -7,7 +7,7 @@ export default function Home() {
       <div className="header">
         <nav>
           <div className="header-content">
-            <h2>wejchart</h2>
+            <h2>systilo</h2>
           </div>
         </nav>
       </div>
@@ -15,10 +15,10 @@ export default function Home() {
         <div className="mtext-content">
           <div className="text-section">
             <h1>
-              make quality charts with <span className="gradient-text">wejchart</span>
+              make quality charts with <span className="gradient-text">systilo</span>
             </h1>
             <p className="ptwt">
-              change the way you make charts with wejchart 
+              change the way you make charts with systilo
             </p>
             <Link href="/ai"> {/* Update the href with the correct path */}
               <button className="btn6">Generate Charts</button>
